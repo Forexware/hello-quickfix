@@ -1,0 +1,17 @@
+target/
+.project
+.classpath
+.settings/
+.scala_dependencies
+*.iml
+*.ipr
+*.iws
+*.idea
+*.scssc
+*.db.trace.db
+lift_proto.db.*
+*.DS_Store
+*.DS_STORE
+storage/
+project/boot
+MANIFEST.MF
